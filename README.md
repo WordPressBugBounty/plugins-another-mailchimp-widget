@@ -1,0 +1,1 @@
+# plugins-another-mailchimp-widget
